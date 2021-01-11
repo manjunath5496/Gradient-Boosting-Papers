@@ -282,10 +282,10 @@ for Imitation Learning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(140).pdf" style="text-decoration:none;">Boosting Algorithms for Maximizing the Soft Margin</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(141).pdf" style="text-decoration:none;">Boosting the Area Under the ROC Curve</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(142).pdf" style="text-decoration:none;">Multilingual Entity, Relation, Event and Human Value Extraction</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(143).pdf" style="text-decoration:none;">Learning to Select Important Context Words for Event Detection</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(144).pdf" style="text-decoration:none;">Nonparametric Bayesian Models for Unsupervised Event Coreference Resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(145).pdf" style="text-decoration:none;">5W1H Information Extraction with CNN-Bidirectional LSTM</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(142).pdf" style="text-decoration:none;">McRank: Learning to Rank Using Multiple Classification and Gradient Boosting</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(143).pdf" style="text-decoration:none;">Regularized Boost for Semi-Supervised Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(144).pdf" style="text-decoration:none;">Boosting Classifier Cascades</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(145).pdf" style="text-decoration:none;">Multiclass Boosting: Theory and Algorithms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(146).pdf" style="text-decoration:none;">An Improved Extraction Pattern Representation Model for Automatic IE Pattern Acquisition</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(147).pdf" style="text-decoration:none;">Refining Event Extraction through Cross-document Inference</a></li>
