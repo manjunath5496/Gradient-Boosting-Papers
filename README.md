@@ -31,7 +31,7 @@ Multitask Learning with Boosting</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(15).pdf" style="text-decoration:none;">UCBoost: A Boosting Approach to Tame Complexity and Optimality for Stochastic Bandits</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(16).pdf" style="text-decoration:none;">Boosting on a Budget: Sampling for Feature-Ecient Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(16).pdf" style="text-decoration:none;">Boosting on a Budget: Sampling for Feature-Efficient Prediction</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(17).pdf" style="text-decoration:none;">Training Conditional Random Fields using Virtual Evidence Boosting</a></li>   
   
