@@ -177,104 +177,111 @@ of the Minority Class in Boosting</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(91).pdf" style="text-decoration:none;">Human Boosting</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(92).pdf" style="text-decoration:none;">Boosting the Feature Space: Text Classification for Unstructured Data on the Web</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(93).pdf" style="text-decoration:none;">Boosting Kernel Models for Regression</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(94).pdf" style="text-decoration:none;">Boosting Relational Sequence Alignments</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(95).pdf" style="text-decoration:none;">LinkBoost: A Novel Cost-Sensitive Boosting Framework for Community-Level Network Link Prediction</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(96).pdf" style="text-decoration:none;">General Functional Matrix Factorization Using Gradient Boosting</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(97).pdf" style="text-decoration:none;">Modeling Auction Price Uncertainty
+Using Boostingbased Conditional Density Estimation</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(98).pdf" style="text-decoration:none;">Boosting Lazy Decision Trees</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(99).pdf" style="text-decoration:none;">Boosting grammatical inference with confidence oracles</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(100).pdf" style="text-decoration:none;">A Smoothed Boosting Algorithm
+Using Probabilistic Output Codes</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(101).pdf" style="text-decoration:none;">Boosting for Regression Transfer</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(102).pdf" style="text-decoration:none;">Identifying civilians killed by police with distantly supervised entity-event extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(102).pdf" style="text-decoration:none;">Boosting with Online Binary Learners for the Multiclass Bandit Problem</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(103).pdf" style="text-decoration:none;">Exploiting Contextual Information via Dynamic Memory Network for Event Detection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(103).pdf" style="text-decoration:none;">Query Learning Strategies Using Boosting and Bagging.</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(104).pdf" style="text-decoration:none;">Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(104).pdf" style="text-decoration:none;">Boosting a Complete Technique to Find MSS and MUS thanks to a Local Search Oracle</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(105).pdf" style="text-decoration:none;">Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(105).pdf" style="text-decoration:none;">Model-Shared Subspace Boosting for Multi-label Classification</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(106).pdf" style="text-decoration:none;">Boosting for Learning Multiple Classes with Imbalanced Class Distribution</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(107).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Relation and Event Extraction</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(108).pdf" style="text-decoration:none;">Event Detection with Trigger-Aware Lattice Neural Network</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(109).pdf" style="text-decoration:none;">Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(110).pdf" style="text-decoration:none;">Neural Cross-Lingual Event Detection with Minimal Parallel Resources </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(111).pdf" style="text-decoration:none;">Event Detection with Multi-Order Graph Convolution and Aggregated Attention</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(107).pdf" style="text-decoration:none;">Kernel Sharing With Joint Boosting For Multi-Class Concept Detection</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(112).pdf" style="text-decoration:none;">HMEAE: Hierarchical Modular Event Argument Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(108).pdf" style="text-decoration:none;">Experimental Comparisons of Online and Batch Versions of Bagging and Boosting</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(113).pdf" style="text-decoration:none;">Entity, Relation, and Event Extraction with Contextualized Span Representations</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(109).pdf" style="text-decoration:none;">MARK: A Boosting Algorithm for Heterogeneous Kernel Models</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(110).pdf" style="text-decoration:none;">Boosting products of base classifiers</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(118).pdf" style="text-decoration:none;">Skip N-grams and Ranking Functions for Predicting Script Events</a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(119).pdf" style="text-decoration:none;">Event detection based on open information extraction and ontology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(111).pdf" style="text-decoration:none;">A Unified Framework for Knowledge Intensive Gradient Boosting: Leveraging Human Experts for Noisy Sparse Domains</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(120).pdf" style="text-decoration:none;">Event Coreference Resolution using Mincut based Graph Clustering</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(121).pdf" style="text-decoration:none;">On Semantics and Deep Learning for Event Detection in Crisis Situations</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(112).pdf" style="text-decoration:none;">Gradient Feature Selection for Online Boosting</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(113).pdf" style="text-decoration:none;">Boosted Deformable Model for Human Body Alignment</a></li>  
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(122).pdf" style="text-decoration:none;">Chinese Event Extraction Based on Attention and Semantic Features: A Bidirectional Circular Neural Network</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(114).pdf" style="text-decoration:none;">BDT: Gradient Boosted Decision Tables for High Accuracy and Scoring Efficiency</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(115).pdf" style="text-decoration:none;">Adaptive Martingale Boosting</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(116).pdf" style="text-decoration:none;">Random Classification Noise
+Defeats All Convex Potential Boosters</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(117).pdf" style="text-decoration:none;">Survey of Boosting
+from an Optimization Perspective</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(118).pdf" style="text-decoration:none;">Minimum Majority Classification and Boosting</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(119).pdf" style="text-decoration:none;">MKBoost: A framework of multiple kernel boosting</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(120).pdf" style="text-decoration:none;">Training Conditional Random Fields via Gradient Tree Boosting</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(121).pdf" style="text-decoration:none;">Boosting Support Vector Machines</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(122).pdf" style="text-decoration:none;">A Theory of Multiclass Boosting</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(123).pdf" style="text-decoration:none;">A Unified Event Coreference Resolution by Integrating Multiple Resolvers</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(123).pdf" style="text-decoration:none;">Semi-Supervised Boosting for Multi-Class Classification</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(124).pdf" style="text-decoration:none;">Using Prediction from Sentential Scope to Build a Pseudo Co-Testing Learner for Event Extraction</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(124).pdf" style="text-decoration:none;">Multiclass Boosting with Hinge Loss based on Output Coding</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(125).pdf" style="text-decoration:none;">Exploiting Document Level Information to Improve Event Detection via Recurrent Neural Networks</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(125).pdf" style="text-decoration:none;">Multiclass Boosting with Hinge Loss based on Output Coding</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(126).pdf" style="text-decoration:none;">
-Semi-Automatic Financial Events Discovery Based on Lexico-Semantic Patterns</a></li> 
+Fast and Light Boosting for Adaptive Mining of Data Streams</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(127).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(127).pdf" style="text-decoration:none;">CatBoost: unbiased boosting with categorical features</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(128).pdf" style="text-decoration:none;">Temporal Ontology and Temporal Reference</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(128).pdf" style="text-decoration:none;">Multi-Layered Gradient Boosting Decision Trees</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(129).pdf" style="text-decoration:none;">Four thousand ships passed through the lock: Object-induced measure functions on events</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(129).pdf" style="text-decoration:none;">Obtaining Calibrated Probabilities from Boosting</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(130).pdf" style="text-decoration:none;">Event Coreference Resolution with Multi-Pass Sieves </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(130).pdf" style="text-decoration:none;">Discriminative Learning for Label Sequences via Boosting</a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(131).pdf" style="text-decoration:none;">Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(131).pdf" style="text-decoration:none;">From Isolation to Cooperation:
+An Alternative View of a System of Experts</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(132).pdf" style="text-decoration:none;">Event Detection via Gated Multilingual Attention Mechanism</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(132).pdf" style="text-decoration:none;">Training Methods for Adaptive Boosting of Neural Networks</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(133).pdf" style="text-decoration:none;">A Survey of Textual Event Extraction from Social Networks</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(133).pdf" style="text-decoration:none;">Boosting Algorithms as Gradient Descent</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(134).pdf" style="text-decoration:none;">Events, Processes, and States</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(134).pdf" style="text-decoration:none;">Boosting with Multi-Way Branching in Decision Trees</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(135).pdf" style="text-decoration:none;">Chinese Event Coreference Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(135).pdf" style="text-decoration:none;">Weak Learners and Improved Rates of Convergence in Boosting</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(136).pdf" style="text-decoration:none;">Joint Extraction of Events and Entities within a Document Context</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(137).pdf" style="text-decoration:none;">Joint Event Extraction via Recurrent Neural Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(138).pdf" style="text-decoration:none;">Cross-media Event Extraction and Recommendation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(139).pdf" style="text-decoration:none;">Semi-Supervised Event Extraction with Paraphrase Clusters</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(140).pdf" style="text-decoration:none;">Adversarial Training forWeakly Supervised Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(136).pdf" style="text-decoration:none;">Boosting and Maximum Likelihood for
+Exponential Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(137).pdf" style="text-decoration:none;">Boosting Density Estimation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(138).pdf" style="text-decoration:none;">Optimal Aggregation of Classifiers and Boosting Maps in Functional Magnetic Resonance Imaging</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(139).pdf" style="text-decoration:none;">Boosting Structured Prediction
+for Imitation Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(140).pdf" style="text-decoration:none;">Boosting Algorithms for Maximizing the Soft Margin</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(141).pdf" style="text-decoration:none;"> Biomedical Event Extraction Based on Knowledge-driven Tree-LSTM</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(141).pdf" style="text-decoration:none;">Boosting the Area Under the ROC Curve</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(142).pdf" style="text-decoration:none;">Multilingual Entity, Relation, Event and Human Value Extraction</a></li>                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(143).pdf" style="text-decoration:none;">Learning to Select Important Context Words for Event Detection</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Gradient-Boosting-Papers/blob/master/gr(144).pdf" style="text-decoration:none;">Nonparametric Bayesian Models for Unsupervised Event Coreference Resolution</a></li>
